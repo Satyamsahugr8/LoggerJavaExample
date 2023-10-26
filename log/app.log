@@ -1,0 +1,5 @@
+26 Oct 2023 20:50:32.320 main INFO  com.example.MyService (13) - inside method1():: a: [1] 
+26 Oct 2023 20:50:32.323 main INFO  com.example.MyService (18) - inside method1():: b: [2] 
+26 Oct 2023 20:50:32.323 main INFO  com.example.MyService (23) - inside method1():: c: [3] 
+26 Oct 2023 20:50:32.323 main INFO  com.example.MyService (28) - inside method1():: d: [4] 
+26 Oct 2023 20:50:32.324 main INFO  com.example.MyService (33) - inside method1():: e: [5] 
