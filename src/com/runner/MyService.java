@@ -1,8 +1,7 @@
-package com.example;
+package com.runner;
 
 import org.apache.logging.log4j.Logger;
-
-import com.runner.LoggerConfiguration;
+import com.main.LoggerConfiguration;
 
 public class MyService {
 	
